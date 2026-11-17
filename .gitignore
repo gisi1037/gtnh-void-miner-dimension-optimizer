@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated reports (tracked examples are intentionally preserved)
+my_result.json
+my_result_coverage.csv
