@@ -1,0 +1,320 @@
+﻿Ore,Status,Selected dimensions,All allowed source dimensions,Excluded source dimensions,Source CSV row
+Adamantium Ore,Covered,Vega B (T8); Maahes (T9),Proteus (T6); Triton (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); Barnarda E (T8); Barnarda F (T8); Vega B (T8); Anubis (T9); Maahes (T9); Mehen Belt (T9),Deep Dark (T10),2
+Aer Infused Stone,Covered,Neper (T9),Twilight Forest (T0); Neper (T9),Deep Dark (T10),3
+Agardite (Cd) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),4
+Agardite (La) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),5
+Agardite (Nd) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),6
+Agardite (Y) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),7
+Alburnite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),8
+Alduorite Ore,Covered,Callisto (T3); Maahes (T9),Callisto (T3); Anubis (T9); Maahes (T9),Deep Dark (T10),9
+Almandine Ore,Covered,Horus (T9),Twilight Forest (T0); Horus (T9),Deep Dark (T10),10
+Aluminium Fluoride Ore,Unobtainable,,,Deep Dark (T10),11
+Aluminium Ore,Covered,Seth (T9),Moon (T1); Phobos (T2); Asteroids (T3); Ganymede (T3); Mercury (T4); Titan (T5); Proteus (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); T Ceti E (T8); Seth (T9),Deep Dark (T10),12
+Alunite Ore,Covered,Overworld (T0),Overworld (T0); Nether (T0); Ceres (T3); α Centauri Bb (T8),Deep Dark (T10),13
+Amber Ore,Covered,Neper (T9),Twilight Forest (T0); Neper (T9),Deep Dark (T10),14
+Americium Ore,Unobtainable,,,Deep Dark (T10),15
+Amethyst Ore,Covered,Ross128ba (T5); Horus (T9); Maahes (T9),Twilight Forest (T0); Venus (T4); Ross128ba (T5); Horus (T9); Maahes (T9),Deep Dark (T10),16
+Andradite Ore,Covered,Overworld (T0); Neper (T9),Overworld (T0); Anubis (T9); Neper (T9),Deep Dark (T10),17
+Antimony Ore,Covered,Vega B (T8); Neper (T9),Mars (T2); Phobos (T2); Mercury (T4); Titan (T5); Barnarda C (T8); Vega B (T8); Neper (T9),Deep Dark (T10),18
+Apatite Ore,Covered,Overworld (T0); Io (T4),Overworld (T0); Twilight Forest (T0); Io (T4); Miranda (T5); T Ceti E (T8),Deep Dark (T10),19
+Aqua Infused Stone,Covered,Neper (T9),Twilight Forest (T0); Neper (T9),Deep Dark (T10),20
+Ardite Ore,Covered,Horus (T9); Maahes (T9),Venus (T4); Horus (T9); Maahes (T9),Deep Dark (T10),21
+Arsenic Ore,Covered,Vega B (T8); Neper (T9),Mars (T2); Phobos (T2); Mercury (T4); Titan (T5); Barnarda C (T8); Vega B (T8); Neper (T9),Deep Dark (T10),22
+Arsenopyrite Ore,Covered,Ross128b (T3),Ross128b (T3),Deep Dark (T10),23
+Asbestos Ore,Covered,Overworld (T0),Overworld (T0); Europa (T3); α Centauri Bb (T8),Deep Dark (T10),24
+Atheneite Ore,Unobtainable,,,Deep Dark (T10),25
+Awakened Draconium Ore,Covered,Vega B (T8); Seth (T9),Barnarda E (T8); Barnarda F (T8); T Ceti E (T8); Vega B (T8); Mehen Belt (T9); Seth (T9),Deep Dark (T10),26
+BArTiMaEuSNeK Ore,Covered,Ross128ba (T5),Ross128ba (T5),Deep Dark (T10),27
+Banded Iron Ore,Covered,Overworld (T0); Callisto (T3); Horus (T9),Overworld (T0); Nether (T0); Twilight Forest (T0); Mars (T2); Callisto (T3); Ceres (T3); Europa (T3); Ganymede (T3); Mercury (T4); Oberon (T5); Pluto (T7); T Ceti E (T8); Horus (T9),Deep Dark (T10),28
+Barite (Ra) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),29
+Barite Ore,Covered,Io (T4); Ross128ba (T5); Horus (T9); Neper (T9),Nether (T0); Moon (T1); Mars (T2); Phobos (T2); Io (T4); Venus (T4); Ross128ba (T5); Proteus (T6); α Centauri Bb (T8); T Ceti E (T8); Horus (T9); Neper (T9),Deep Dark (T10),30
+Barium Ore,Unobtainable,,,Deep Dark (T10),31
+Basaltic Mineral Sand,Covered,Overworld (T0); Maahes (T9),Overworld (T0); Europa (T3); Barnarda C (T8); Anubis (T9); Maahes (T9),Deep Dark (T10),32
+Bastnasite Ore,Covered,Callisto (T3); Io (T4); Seth (T9),Moon (T1); Deimos (T2); Callisto (T3); Io (T4); Venus (T4); Enceladus (T5); Titan (T5); Triton (T6); Haumea (T7); Makemake (T7); Barnarda F (T8); Seth (T9),Deep Dark (T10),33
+Bauxite Ore,Covered,Seth (T9),Moon (T1); Phobos (T2); Asteroids (T3); Ganymede (T3); Mercury (T4); Venus (T4); Titan (T5); Proteus (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); T Ceti E (T8); Anubis (T9); Seth (T9),Deep Dark (T10),34
+Bedrockium Ore,Covered,Horus (T9),Barnarda F (T8); Anubis (T9); Horus (T9),Deep Dark (T10),35
+Bentonite,Covered,The End (T0),The End (T0); Twilight Forest (T0); Ceres (T3); Haumea (T7); Makemake (T7); Barnarda E (T8); Anubis (T9); Mehen Belt (T9),Deep Dark (T10),36
+Beryllium Ore,Covered,The End (T0),Nether (T0); The End (T0); Mars (T2); Ceres (T3); Venus (T4); Titan (T5); Haumea (T7); Makemake (T7); Pluto (T7); Barnarda F (T8); α Centauri Bb (T8),Deep Dark (T10),37
+Bismuth Ore,Covered,Callisto (T3); Ross128b (T3); Io (T4); Vega B (T8); Neper (T9),Nether (T0); Mars (T2); Phobos (T2); Callisto (T3); Ceres (T3); Ross128b (T3); Io (T4); Mercury (T4); Titan (T5); Proteus (T6); Makemake (T7); Barnarda C (T8); Vega B (T8); Neper (T9),Deep Dark (T10),38
+Bismuthinite Ore,Covered,Ross128b (T3),Ross128b (T3),Deep Dark (T10),39
+Bismutite Ore,Covered,Ross128b (T3),Ross128b (T3),Deep Dark (T10),40
+Black Plutonium Ore,Covered,Vega B (T8); Horus (T9),Triton (T6); Haumea (T7); Makemake (T7); Pluto (T7); Barnarda C (T8); Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8); T Ceti E (T8); Vega B (T8); Horus (T9),Deep Dark (T10),41
+Blue Topaz Ore,Covered,Callisto (T3); Horus (T9); Maahes (T9),Twilight Forest (T0); Callisto (T3); Anubis (T9); Horus (T9); Maahes (T9),Deep Dark (T10),42
+Borax Ore,Covered,Horus (T9),Makemake (T7); Pluto (T7); Barnarda C (T8); α Centauri Bb (T8); T Ceti E (T8); Horus (T9),Deep Dark (T10),43
+Bornite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),44
+Brown Limonite Ore,Covered,Overworld (T0); Callisto (T3),Overworld (T0); Nether (T0); Twilight Forest (T0); Mars (T2); Callisto (T3); Ceres (T3); Ganymede (T3); Mercury (T4); Oberon (T5); Pluto (T7),Deep Dark (T10),45
+Cadmium Ore,Covered,Vega B (T8),Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8); Vega B (T8),Deep Dark (T10),46
+Caesium Ore,Covered,Vega B (T8),Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8); Vega B (T8),Deep Dark (T10),47
+Calcite Ore,Covered,Overworld (T0); The End (T0); Vega B (T8),Overworld (T0); The End (T0); Twilight Forest (T0); Deimos (T2); Ceres (T3); Enceladus (T5); Vega B (T8); Mehen Belt (T9),Deep Dark (T10),48
+Calcium Disilicide Ore,Unobtainable,,,Deep Dark (T10),49
+Calcium Hydride Ore,Unobtainable,,,Deep Dark (T10),50
+Callisto Ice Ore,Covered,Callisto (T3); Maahes (T9),Callisto (T3); Anubis (T9); Maahes (T9),Deep Dark (T10),51
+Cassiterite Ore,Covered,Overworld (T0); The End (T0); Io (T4); Neper (T9); Seth (T9),Overworld (T0); The End (T0); Twilight Forest (T0); Moon (T1); Io (T4); Venus (T4); Miranda (T5); Barnarda C (T8); T Ceti E (T8); Anubis (T9); Mehen Belt (T9); Neper (T9); Seth (T9),Deep Dark (T10),52
+Cassiterite Sand,Covered,Overworld (T0),Overworld (T0); Europa (T3); α Centauri Bb (T8),Deep Dark (T10),53
+Cerite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),54
+Cerium Ore,Covered,Vega B (T8),Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8); Vega B (T8),Deep Dark (T10),55
+Certus Quartz Ore,Covered,Io (T4); Horus (T9); Neper (T9),Nether (T0); Moon (T1); Mars (T2); Phobos (T2); Io (T4); Venus (T4); Proteus (T6); α Centauri Bb (T8); T Ceti E (T8); Horus (T9); Neper (T9),Deep Dark (T10),56
+Ceruclase Ore,Covered,Io (T4); Horus (T9),Io (T4); Anubis (T9); Horus (T9),Deep Dark (T10),57
+Chalcopyrite Ore,Covered,Overworld (T0); The End (T0); Callisto (T3),Overworld (T0); Nether (T0); The End (T0); Moon (T1); Callisto (T3); Ceres (T3); Enceladus (T5); Proteus (T6); Barnarda E (T8); Barnarda F (T8),Deep Dark (T10),58
+Charged Certus Quartz Ore,Covered,Horus (T9); Neper (T9),Horus (T9); Neper (T9),Deep Dark (T10),59
+Cheese Ore,Unobtainable,,,Deep Dark (T10),60
+Chrome Ore,Covered,Callisto (T3); Io (T4); Vega B (T8); Maahes (T9); Seth (T9),Callisto (T3); Ceres (T3); Europa (T3); Ganymede (T3); Io (T4); Mercury (T4); Enceladus (T5); Oberon (T5); Proteus (T6); Kuiper Belt (T7); Makemake (T7); Pluto (T7); Barnarda F (T8); T Ceti E (T8); Vega B (T8); Maahes (T9); Mehen Belt (T9); Seth (T9),Deep Dark (T10),61
+Chromite Ore,Covered,Callisto (T3); Io (T4); Vega B (T8),Moon (T1); Deimos (T2); Mars (T2); Phobos (T2); Asteroids (T3); Callisto (T3); Ceres (T3); Ganymede (T3); Io (T4); Mercury (T4); Venus (T4); Enceladus (T5); Miranda (T5); Oberon (T5); Titan (T5); Proteus (T6); Triton (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); T Ceti E (T8); Vega B (T8); Mehen Belt (T9),Deep Dark (T10),62
+Chromo-Alumino-Povondraite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),63
+Chrysotile Ore,Covered,Vega B (T8); Horus (T9),Makemake (T7); Barnarda F (T8); Vega B (T8); Horus (T9),Deep Dark (T10),64
+Cinnabar Ore,Covered,Overworld (T0); Vega B (T8); Neper (T9),Overworld (T0); Nether (T0); Twilight Forest (T0); Mars (T2); Ganymede (T3); Mercury (T4); Venus (T4); Miranda (T5); Barnarda F (T8); α Centauri Bb (T8); Vega B (T8); Neper (T9),Deep Dark (T10),65
+Coal Ore,Covered,Overworld (T0); Ross128b (T3),Overworld (T0); Twilight Forest (T0); Phobos (T2); Ganymede (T3); Ross128b (T3); Mercury (T4); Miranda (T5); Titan (T5); Proteus (T6); Kuiper Belt (T7); Pluto (T7); Barnarda C (T8); Barnarda F (T8),Deep Dark (T10),66
+Cobalt Ore,Unobtainable,,,Deep Dark (T10),67
+Cobaltite Ore,Covered,The End (T0),The End (T0); Twilight Forest (T0); Deimos (T2); Mars (T2); Phobos (T2); Venus (T4); Titan (T5); Triton (T6); Kuiper Belt (T7); Mehen Belt (T9),Deep Dark (T10),68
+Copper Ore,Covered,Overworld (T0); The End (T0); Callisto (T3); Vega B (T8),Overworld (T0); Nether (T0); The End (T0); Moon (T1); Deimos (T2); Mars (T2); Phobos (T2); Asteroids (T3); Callisto (T3); Ceres (T3); Ganymede (T3); Venus (T4); Enceladus (T5); Miranda (T5); Proteus (T6); Triton (T6); Kuiper Belt (T7); Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8); Vega B (T8),Deep Dark (T10),69
+Cosmic Neutronium Ore,Covered,Horus (T9),Horus (T9),Deep Dark (T10),70
+Crocoite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),71
+Crude Rhodium Metal Ore,Unobtainable,,,Deep Dark (T10),72
+Cryolite (F) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),73
+Cryolite Ore,Covered,Maahes (T9),Twilight Forest (T0); Anubis (T9); Maahes (T9),Deep Dark (T10),74
+Deep Dark Iron Ore,Unobtainable,,,Deep Dark (T10),75
+Deep Iron Ore,Covered,Neper (T9),Mercury (T4); Oberon (T5); Proteus (T6); Triton (T6); Pluto (T7); Barnarda C (T8); Barnarda E (T8); Barnarda F (T8); Neper (T9),Deep Dark (T10),76
+Demicheleite (Br) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),77
+Desh Ore,Covered,Callisto (T3),Deimos (T2); Mars (T2); Phobos (T2); Callisto (T3); Mercury (T4); Miranda (T5); Proteus (T6); Triton (T6); Haumea (T7); Makemake (T7); Anubis (T9),Deep Dark (T10),78
+Diamond Ore,Covered,Overworld (T0); Callisto (T3); Ross128b (T3); Vega B (T8),Overworld (T0); Twilight Forest (T0); Deimos (T2); Phobos (T2); Asteroids (T3); Callisto (T3); Ceres (T3); Ganymede (T3); Ross128b (T3); Mercury (T4); Venus (T4); Miranda (T5); Oberon (T5); Titan (T5); Proteus (T6); Triton (T6); Kuiper Belt (T7); Pluto (T7); Barnarda F (T8); Vega B (T8),Deep Dark (T10),79
+Diatomite Ore,Covered,Overworld (T0),Overworld (T0); Nether (T0); Ceres (T3); Europa (T3); α Centauri Bb (T8),Deep Dark (T10),80
+Dilithium Ore,Covered,Neper (T9),Neper (T9),Deep Dark (T10),81
+Djurleite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),82
+Dolomite Ore,Covered,Overworld (T0); Neper (T9),Overworld (T0); Anubis (T9); Neper (T9),Deep Dark (T10),83
+Draconium Ore,Covered,Horus (T9); Seth (T9),Deimos (T2); Phobos (T2); Ganymede (T3); Mercury (T4); Venus (T4); Miranda (T5); Oberon (T5); Haumea (T7); Makemake (T7); Pluto (T7); Horus (T9); Mehen Belt (T9); Seth (T9),Deep Dark (T10),84
+Duralumin Ore,Unobtainable,,,Deep Dark (T10),85
+Dysprosium Ore,Unobtainable,,,Deep Dark (T10),86
+Electrotine Ore,Covered,Horus (T9); Seth (T9),Nether (T0); Deimos (T2); Phobos (T2); Ceres (T3); Mercury (T4); Miranda (T5); α Centauri Bb (T8); Horus (T9); Seth (T9),Deep Dark (T10),87
+Electrum Ore,Unobtainable,,,Deep Dark (T10),88
+Emerald Ore,Covered,The End (T0); Horus (T9),Nether (T0); The End (T0); Twilight Forest (T0); Mars (T2); Ceres (T3); Venus (T4); Titan (T5); Haumea (T7); Makemake (T7); Pluto (T7); Barnarda F (T8); α Centauri Bb (T8); Horus (T9),Deep Dark (T10),89
+Emery Ore,Unobtainable,,,Deep Dark (T10),90
+Endium Ore,Unobtainable,,,Deep Dark (T10),91
+Enriched Naquadah Ore,Covered,The End (T0); Ross128ba (T5); Vega B (T8); Maahes (T9),The End (T0); Asteroids (T3); Mercury (T4); Venus (T4); Oberon (T5); Titan (T5); Ross128ba (T5); Haumea (T7); Kuiper Belt (T7); Pluto (T7); Barnarda E (T8); Barnarda F (T8); Vega B (T8); Maahes (T9),Deep Dark (T10),92
+Enriched-Naquadah Oxide Mixture Ore,Unobtainable,,,Deep Dark (T10),93
+Erbium Ore,Unobtainable,,,Deep Dark (T10),94
+Europium Ore,Unobtainable,,,Deep Dark (T10),95
+Fayalite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),96
+Ferberite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),97
+Firestone Ore,Covered,Io (T4),Io (T4); Venus (T4),Deep Dark (T10),98
+Flerovium Ore,Unobtainable,,,Deep Dark (T10),99
+Florencite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),100
+Fluor-Buergerite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),101
+Fluorcaphite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),102
+Fluorite (F) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),103
+Fluorspar Ore,Covered,Ross128ba (T5),Ross128ba (T5),Deep Dark (T10),104
+Fluxed Electrum Ore,Unobtainable,,,Deep Dark (T10),105
+Force Ore,Unobtainable,,,Deep Dark (T10),106
+Forcicium Ore,Unobtainable,,,Deep Dark (T10),107
+Forcillium Ore,Unobtainable,,,Deep Dark (T10),108
+Forsterite Ore,Covered,Ross128b (T3),Ross128b (T3),Deep Dark (T10),109
+Fullers Earth,Covered,Overworld (T0); Maahes (T9); Neper (T9),Overworld (T0); Europa (T3); Barnarda C (T8); T Ceti E (T8); Anubis (T9); Maahes (T9); Neper (T9),Deep Dark (T10),110
+Gadolinite (Ce) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),111
+Gadolinite (Y) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),112
+Gadolinium Ore,Unobtainable,,,Deep Dark (T10),113
+Galena Ore,Covered,Ross128ba (T5); Vega B (T8); Maahes (T9),Twilight Forest (T0); Moon (T1); Mars (T2); Ganymede (T3); Venus (T4); Oberon (T5); Ross128ba (T5); Triton (T6); Vega B (T8); Anubis (T9); Maahes (T9),Deep Dark (T10),114
+Gallium Ore,Covered,Vega B (T8),Triton (T6); Makemake (T7); Barnarda F (T8); Vega B (T8),Deep Dark (T10),115
+Garnet Sand,Covered,Overworld (T0); Vega B (T8); Horus (T9),Overworld (T0); Europa (T3); Haumea (T7); Barnarda E (T8); α Centauri Bb (T8); T Ceti E (T8); Vega B (T8); Horus (T9),Deep Dark (T10),116
+Garnierite Ore,Covered,The End (T0),The End (T0); Twilight Forest (T0); Deimos (T2); Mars (T2); Phobos (T2); Venus (T4); Titan (T5); Triton (T6); Kuiper Belt (T7); Mehen Belt (T9),Deep Dark (T10),117
+Geikielite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),118
+Glauconite Ore,Covered,Overworld (T0); The End (T0); Maahes (T9),Overworld (T0); The End (T0); Twilight Forest (T0); Ceres (T3); Haumea (T7); Makemake (T7); Barnarda E (T8); Anubis (T9); Maahes (T9); Mehen Belt (T9),Deep Dark (T10),119
+Glauconite Sand,Covered,Overworld (T0); Neper (T9),Overworld (T0); T Ceti E (T8); Neper (T9),Deep Dark (T10),120
+Gold Ore,Covered,Overworld (T0); The End (T0); Callisto (T3); Io (T4); Vega B (T8); Maahes (T9); Seth (T9),Overworld (T0); The End (T0); Twilight Forest (T0); Mars (T2); Phobos (T2); Asteroids (T3); Callisto (T3); Ceres (T3); Io (T4); Venus (T4); Enceladus (T5); Miranda (T5); Titan (T5); Proteus (T6); Triton (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); Barnarda E (T8); Barnarda F (T8); T Ceti E (T8); Vega B (T8); Maahes (T9); Seth (T9),Deep Dark (T10),121
+Granitic Mineral Sand,Covered,Overworld (T0); Maahes (T9),Overworld (T0); Europa (T3); Barnarda C (T8); Anubis (T9); Maahes (T9),Deep Dark (T10),122
+Graphite Ore,Covered,Overworld (T0); Ross128b (T3),Overworld (T0); Twilight Forest (T0); Phobos (T2); Ganymede (T3); Ross128b (T3); Mercury (T4); Miranda (T5); Titan (T5); Proteus (T6); Kuiper Belt (T7); Pluto (T7); Barnarda F (T8),Deep Dark (T10),123
+Green Fuchsite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),124
+Green Sapphire Ore,Covered,Horus (T9),Twilight Forest (T0); Horus (T9),Deep Dark (T10),125
+Grossular Ore,Covered,Overworld (T0); The End (T0); Io (T4),Overworld (T0); Nether (T0); The End (T0); Ceres (T3); Io (T4); Oberon (T5); Titan (T5); Triton (T6); Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8),Deep Dark (T10),126
+Gypsum Ore,Covered,Overworld (T0); Maahes (T9),Overworld (T0); Europa (T3); Barnarda C (T8); Anubis (T9); Maahes (T9),Deep Dark (T10),127
+Hedenbergite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),128
+Hibonite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),129
+Holmium Ore,Unobtainable,,,Deep Dark (T10),130
+Honeaite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),131
+Huebnerite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),132
+Ichorium Ore,Unobtainable,,,Deep Dark (T10),133
+Ignis Infused Stone,Covered,Neper (T9),Twilight Forest (T0); Neper (T9),Deep Dark (T10),134
+Ilmenite Ore,Covered,Callisto (T3); Seth (T9),Moon (T1); Phobos (T2); Asteroids (T3); Callisto (T3); Ganymede (T3); Mercury (T4); Miranda (T5); Titan (T5); Proteus (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); T Ceti E (T8); Mehen Belt (T9); Seth (T9),Deep Dark (T10),135
+Indium Ore,Unobtainable,,,Deep Dark (T10),136
+Infinity Catalyst Ore,Covered,Vega B (T8),Vega B (T8); Anubis (T9),Deep Dark (T10),137
+Infused Gold Ore,Covered,Io (T4); Vega B (T8),Io (T4); Titan (T5); Proteus (T6); Haumea (T7); Barnarda E (T8); Vega B (T8),Deep Dark (T10),138
+Irarsite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),139
+Iridium Metal Residue Ore,Unobtainable,,,Deep Dark (T10),140
+Iridium Ore,Covered,The End (T0); Io (T4); Maahes (T9); Seth (T9),The End (T0); Io (T4); Mercury (T4); Venus (T4); Enceladus (T5); Miranda (T5); Oberon (T5); Titan (T5); Proteus (T6); Triton (T6); Kuiper Belt (T7); Pluto (T7); Barnarda C (T8); Maahes (T9); Mehen Belt (T9); Seth (T9),Deep Dark (T10),141
+Iron Ore,Covered,Overworld (T0); The End (T0); Callisto (T3); Io (T4); Toxic Everglades (T6); Seth (T9),Overworld (T0); Nether (T0); The End (T0); Twilight Forest (T0); Moon (T1); Deimos (T2); Mars (T2); Phobos (T2); Asteroids (T3); Callisto (T3); Ceres (T3); Ganymede (T3); Io (T4); Enceladus (T5); Miranda (T5); Titan (T5); Proteus (T6); Triton (T6); Toxic Everglades (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Barnarda E (T8); Barnarda F (T8); T Ceti E (T8); Seth (T9),Deep Dark (T10),142
+Jade Ore,Covered,Horus (T9); Seth (T9),Twilight Forest (T0); Deimos (T2); Phobos (T2); Mercury (T4); Miranda (T5); Horus (T9); Seth (T9),Deep Dark (T10),143
+Jasper Ore,Covered,Io (T4); Horus (T9),Twilight Forest (T0); Io (T4); Anubis (T9); Horus (T9),Deep Dark (T10),144
+Kaolinite,Covered,Overworld (T0); Neper (T9),Overworld (T0); T Ceti E (T8); Neper (T9),Deep Dark (T10),145
+Kashinite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),146
+Kyanite Ore,Covered,Overworld (T0); Neper (T9),Overworld (T0); Barnarda C (T8); Anubis (T9); Neper (T9),Deep Dark (T10),147
+Lafossaite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),148
+Lanthanite (Ce) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),149
+Lanthanite (La) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),150
+Lanthanum Ore,Covered,Vega B (T8),Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8); Vega B (T8),Deep Dark (T10),151
+Lapis Ore,Covered,Overworld (T0); The End (T0); Io (T4); Vega B (T8),Overworld (T0); The End (T0); Twilight Forest (T0); Deimos (T2); Phobos (T2); Ceres (T3); Ganymede (T3); Io (T4); Enceladus (T5); Oberon (T5); T Ceti E (T8); Vega B (T8); Mehen Belt (T9),Deep Dark (T10),152
+Lautarite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),153
+Lazurite Ore,Covered,Overworld (T0); The End (T0); Vega B (T8),Overworld (T0); The End (T0); Twilight Forest (T0); Deimos (T2); Ceres (T3); Enceladus (T5); Vega B (T8); Mehen Belt (T9),Deep Dark (T10),154
+Leach Residue Ore,Unobtainable,,,Deep Dark (T10),155
+Lead Ore,Covered,The End (T0); Vega B (T8); Maahes (T9),Nether (T0); The End (T0); Twilight Forest (T0); Moon (T1); Deimos (T2); Mars (T2); Asteroids (T3); Ceres (T3); Ganymede (T3); Mercury (T4); Venus (T4); Oberon (T5); Triton (T6); Kuiper Belt (T7); Makemake (T7); Pluto (T7); Vega B (T8); Anubis (T9); Maahes (T9),Deep Dark (T10),156
+Ledox Ore,Covered,Callisto (T3); Horus (T9),Callisto (T3); Europa (T3); Mercury (T4); Enceladus (T5); Oberon (T5); Haumea (T7); Pluto (T7); Horus (T9),Deep Dark (T10),157
+Lepersonnite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),158
+Lepidolite Ore,Covered,Overworld (T0); Ross128b (T3),Overworld (T0); Twilight Forest (T0); Mars (T2); Ross128b (T3); Barnarda C (T8); T Ceti E (T8),Deep Dark (T10),159
+Lignite Coal Ore,Covered,Overworld (T0),Overworld (T0); Twilight Forest (T0); Barnarda C (T8),Deep Dark (T10),160
+Lithium Ore,Covered,The End (T0); Callisto (T3); Vega B (T8),The End (T0); Deimos (T2); Mars (T2); Asteroids (T3); Callisto (T3); Ganymede (T3); Enceladus (T5); Oberon (T5); Triton (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); Vega B (T8),Deep Dark (T10),161
+Loellingite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),162
+Lutetium Ore,Unobtainable,,,Deep Dark (T10),163
+Magnesite Ore,Covered,The End (T0); Horus (T9),The End (T0); Twilight Forest (T0); Ceres (T3); Europa (T3); Haumea (T7); Makemake (T7); Barnarda E (T8); T Ceti E (T8); Anubis (T9); Horus (T9); Mehen Belt (T9),Deep Dark (T10),164
+Magnesium Ore,Unobtainable,,,Deep Dark (T10),165
+Magnetite Ore,Covered,Overworld (T0); The End (T0); Callisto (T3); Io (T4); Vega B (T8); Maahes (T9); Seth (T9),Overworld (T0); The End (T0); Twilight Forest (T0); Deimos (T2); Mars (T2); Phobos (T2); Asteroids (T3); Callisto (T3); Ceres (T3); Io (T4); Enceladus (T5); Proteus (T6); Triton (T6); Makemake (T7); Pluto (T7); Barnarda E (T8); Barnarda F (T8); T Ceti E (T8); Vega B (T8); Maahes (T9); Seth (T9),Deep Dark (T10),166
+Malachite Ore,Covered,Overworld (T0); Callisto (T3),Overworld (T0); Nether (T0); Twilight Forest (T0); Mars (T2); Callisto (T3); Ceres (T3); Ganymede (T3); Mercury (T4); Oberon (T5); Pluto (T7),Deep Dark (T10),167
+Manganese Ore,Covered,Maahes (T9),Europa (T3); T Ceti E (T8); Maahes (T9),Deep Dark (T10),168
+Manyullyn Ore,Unobtainable,,,Deep Dark (T10),169
+Meteoric Iron Ore,Covered,Io (T4),Moon (T1); Deimos (T2); Mars (T2); Phobos (T2); Io (T4); Venus (T4); Titan (T5); Pluto (T7); Anubis (T9),Deep Dark (T10),170
+Mica Ore,Covered,Overworld (T0); Neper (T9),Overworld (T0); Barnarda C (T8); Anubis (T9); Neper (T9),Deep Dark (T10),171
+Miessiite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),172
+Mirabilite Ore,Covered,Horus (T9),Deimos (T2); Phobos (T2); Horus (T9),Deep Dark (T10),173
+Mithril Ore,Covered,Io (T4); Seth (T9),Io (T4); Mercury (T4); Venus (T4); Enceladus (T5); Miranda (T5); Titan (T5); Triton (T6); Kuiper Belt (T7); Mehen Belt (T9); Seth (T9),Deep Dark (T10),174
+Molybdenite Ore,Covered,The End (T0),Nether (T0); The End (T0); Twilight Forest (T0); Moon (T1); Phobos (T2); Ceres (T3); Mercury (T4); Titan (T5); Proteus (T6); Pluto (T7); Barnarda E (T8),Deep Dark (T10),175
+Molybdenum Ore,Covered,The End (T0); Maahes (T9),Nether (T0); The End (T0); Twilight Forest (T0); Moon (T1); Phobos (T2); Ceres (T3); Europa (T3); Mercury (T4); Titan (T5); Proteus (T6); Pluto (T7); Barnarda E (T8); T Ceti E (T8); Maahes (T9),Deep Dark (T10),176
+Monazite Ore,Covered,Callisto (T3); Io (T4); Seth (T9),Moon (T1); Deimos (T2); Callisto (T3); Io (T4); Venus (T4); Enceladus (T5); Titan (T5); Triton (T6); Haumea (T7); Makemake (T7); Barnarda F (T8); Seth (T9),Deep Dark (T10),177
+Mysterious Crystal Ore,Covered,Neper (T9),Neper (T9),Deep Dark (T10),178
+Mytryl Ore,Covered,Callisto (T3); Io (T4); Horus (T9),Callisto (T3); Io (T4); Venus (T4); Miranda (T5); Proteus (T6); Makemake (T7); Anubis (T9); Horus (T9),Deep Dark (T10),179
+Naquadah Ore,Covered,The End (T0); Io (T4); Vega B (T8); Maahes (T9),The End (T0); Asteroids (T3); Ceres (T3); Io (T4); Mercury (T4); Venus (T4); Enceladus (T5); Oberon (T5); Titan (T5); Proteus (T6); Triton (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); Barnarda E (T8); Barnarda F (T8); Vega B (T8); Maahes (T9); Mehen Belt (T9),Deep Dark (T10),180
+Naquadah Oxide Mixture Ore,Unobtainable,,,Deep Dark (T10),181
+Naquadria Ore,Covered,Maahes (T9),Maahes (T9),Deep Dark (T10),182
+Naquadria Oxide Mixture Ore,Unobtainable,,,Deep Dark (T10),183
+Neodymium Ore,Covered,Callisto (T3); Io (T4); Seth (T9),Moon (T1); Deimos (T2); Callisto (T3); Io (T4); Venus (T4); Enceladus (T5); Titan (T5); Triton (T6); Haumea (T7); Makemake (T7); Barnarda C (T8); Barnarda F (T8); α Centauri Bb (T8); Seth (T9),Deep Dark (T10),184
+Nether Quartz Ore,Covered,Neper (T9),Nether (T0); α Centauri Bb (T8); Neper (T9),Deep Dark (T10),185
+Nether Star Ore,Covered,Vega B (T8); Horus (T9),Haumea (T7); Barnarda E (T8); T Ceti E (T8); Vega B (T8); Horus (T9); Mehen Belt (T9),Deep Dark (T10),186
+Neutronium Ore,Covered,Vega B (T8); Horus (T9); Maahes (T9),Enceladus (T5); Oberon (T5); Titan (T5); Proteus (T6); Triton (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); Barnarda E (T8); Barnarda F (T8); T Ceti E (T8); Vega B (T8); Anubis (T9); Horus (T9); Maahes (T9); Mehen Belt (T9),Deep Dark (T10),187
+Nichromite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),188
+Nickel Ore,Covered,Overworld (T0); The End (T0); Io (T4); Seth (T9),Overworld (T0); The End (T0); Twilight Forest (T0); Deimos (T2); Mars (T2); Phobos (T2); Asteroids (T3); Ceres (T3); Io (T4); Mercury (T4); Venus (T4); Enceladus (T5); Miranda (T5); Oberon (T5); Titan (T5); Proteus (T6); Triton (T6); Kuiper Belt (T7); Makemake (T7); Pluto (T7); Barnarda C (T8); Barnarda E (T8); Barnarda F (T8); Mehen Belt (T9); Seth (T9),Deep Dark (T10),189
+Niobium Ore,Covered,Vega B (T8),Triton (T6); Makemake (T7); Barnarda F (T8); Vega B (T8),Deep Dark (T10),190
+Niter Ore,Unobtainable,,,Deep Dark (T10),191
+Oilsands Ore,Covered,Overworld (T0),Overworld (T0); Barnarda C (T8); T Ceti E (T8),Deep Dark (T10),192
+Olenite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),193
+Olivine Ore,Covered,The End (T0); Ross128ba (T5); Horus (T9),The End (T0); Twilight Forest (T0); Ceres (T3); Ross128ba (T5); Haumea (T7); Makemake (T7); Barnarda E (T8); Anubis (T9); Horus (T9); Mehen Belt (T9),Deep Dark (T10),194
+Opal Ore,Covered,Horus (T9),Twilight Forest (T0); Europa (T3); Enceladus (T5); T Ceti E (T8); Horus (T9),Deep Dark (T10),195
+Orange Descloizite Ore,Covered,Ross128b (T3),Ross128b (T3),Deep Dark (T10),196
+Ordo Infused Stone,Covered,Neper (T9),Twilight Forest (T0); Neper (T9),Deep Dark (T10),197
+Orichalcum Ore,Covered,Horus (T9),Europa (T3); Enceladus (T5); Horus (T9),Deep Dark (T10),198
+Oriharukon Ore,Covered,Horus (T9),Deimos (T2); Mars (T2); Phobos (T2); Ceres (T3); Mercury (T4); Titan (T5); Triton (T6); Haumea (T7); Makemake (T7); Horus (T9),Deep Dark (T10),199
+Orundum Ore,Unobtainable,,,Deep Dark (T10),200
+Osmium Ore,Covered,Seth (T9),Enceladus (T5); Miranda (T5); Oberon (T5); Titan (T5); Proteus (T6); Kuiper Belt (T7); Pluto (T7); Barnarda C (T8); Mehen Belt (T9); Seth (T9),Deep Dark (T10),201
+Palladium Metallic Powder Ore,Unobtainable,,,Deep Dark (T10),202
+Palladium Ore,Covered,The End (T0); Callisto (T3); Io (T4); Maahes (T9); Seth (T9),The End (T0); Callisto (T3); Ceres (T3); Ganymede (T3); Io (T4); Mercury (T4); Venus (T4); Enceladus (T5); Miranda (T5); Oberon (T5); Titan (T5); Triton (T6); Kuiper Belt (T7); Pluto (T7); Maahes (T9); Mehen Belt (T9); Seth (T9),Deep Dark (T10),203
+Pentlandite Ore,Covered,Overworld (T0); The End (T0); Maahes (T9),Overworld (T0); The End (T0); Twilight Forest (T0); Deimos (T2); Mars (T2); Phobos (T2); Ceres (T3); Venus (T4); Titan (T5); Triton (T6); Kuiper Belt (T7); Anubis (T9); Maahes (T9); Mehen Belt (T9),Deep Dark (T10),204
+Perditio Infused Stone,Covered,Neper (T9),Twilight Forest (T0); Neper (T9),Deep Dark (T10),205
+Perlite Ore,Covered,Callisto (T3),Moon (T1); Asteroids (T3); Callisto (T3); Ganymede (T3); Mercury (T4); Miranda (T5); Titan (T5); Proteus (T6); Pluto (T7); T Ceti E (T8); Mehen Belt (T9),Deep Dark (T10),206
+Perroudite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),207
+Phosphate Ore,Unobtainable,,,Deep Dark (T10),208
+Pig Iron Ore,Unobtainable,,,Deep Dark (T10),209
+Pitchblende,Covered,Io (T4); Vega B (T8),Mars (T2); Phobos (T2); Io (T4); Venus (T4); Oberon (T5); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Barnarda F (T8); α Centauri Bb (T8); Vega B (T8),Deep Dark (T10),210
+Platinum Metallic Powder Ore,Unobtainable,,,Deep Dark (T10),211
+Platinum Ore,Covered,The End (T0); Callisto (T3); Io (T4); Vega B (T8); Maahes (T9); Seth (T9),The End (T0); Callisto (T3); Ceres (T3); Ganymede (T3); Io (T4); Mercury (T4); Oberon (T5); Titan (T5); Proteus (T6); Haumea (T7); Kuiper Belt (T7); Pluto (T7); Barnarda E (T8); Vega B (T8); Maahes (T9); Mehen Belt (T9); Seth (T9),Deep Dark (T10),212
+Plutonium 239 Ore,Covered,Callisto (T3); Io (T4),Callisto (T3); Ceres (T3); Ganymede (T3); Io (T4),Deep Dark (T10),213
+Plutonium 241 Ore,Covered,Vega B (T8),Triton (T6); Haumea (T7); Pluto (T7); Barnarda E (T8); Barnarda F (T8); Vega B (T8),Deep Dark (T10),214
+Pollucite Ore,Covered,Overworld (T0); Neper (T9),Overworld (T0); Barnarda C (T8); Anubis (T9); Neper (T9),Deep Dark (T10),215
+Polycrase Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),216
+Powellite Ore,Covered,The End (T0),Nether (T0); The End (T0); Twilight Forest (T0); Moon (T1); Phobos (T2); Ceres (T3); Mercury (T4); Titan (T5); Proteus (T6); Pluto (T7); Barnarda E (T8),Deep Dark (T10),217
+Praseodymium Ore,Unobtainable,,,Deep Dark (T10),218
+Prasiolite Ore,Covered,Ross128ba (T5),Ross128ba (T5),Deep Dark (T10),219
+Promethium Ore,Unobtainable,,,Deep Dark (T10),220
+Pumice Ore,Unobtainable,,,Deep Dark (T10),221
+Pyrite Ore,Covered,Overworld (T0); The End (T0); Callisto (T3); Io (T4),Overworld (T0); Nether (T0); The End (T0); Moon (T1); Deimos (T2); Mars (T2); Phobos (T2); Callisto (T3); Ceres (T3); Io (T4); Venus (T4); Enceladus (T5); Proteus (T6); Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8); Anubis (T9),Deep Dark (T10),222
+Pyrochlore Ore,Covered,Overworld (T0); Io (T4),Overworld (T0); Twilight Forest (T0); Io (T4); Miranda (T5); T Ceti E (T8),Deep Dark (T10),223
+Pyrolusite Ore,Covered,Overworld (T0); The End (T0); Io (T4),Overworld (T0); Nether (T0); The End (T0); Ceres (T3); Io (T4); Miranda (T5); Oberon (T5); Titan (T5); Triton (T6); Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8),Deep Dark (T10),224
+Pyrope Ore,Covered,Horus (T9),Twilight Forest (T0); Horus (T9),Deep Dark (T10),225
+Quantium Ore,Covered,Io (T4); Horus (T9); Maahes (T9),Ceres (T3); Io (T4); Venus (T4); Titan (T5); Haumea (T7); Makemake (T7); Pluto (T7); Horus (T9); Maahes (T9),Deep Dark (T10),226
+Quartz Sand,Covered,Horus (T9); Neper (T9),Horus (T9); Neper (T9),Deep Dark (T10),227
+Quartzite Ore,Covered,Io (T4); Horus (T9); Neper (T9),Nether (T0); Moon (T1); Mars (T2); Phobos (T2); Io (T4); Venus (T4); Proteus (T6); α Centauri Bb (T8); T Ceti E (T8); Horus (T9); Neper (T9),Deep Dark (T10),228
+Rarest Metal Residue Ore,Unobtainable,,,Deep Dark (T10),229
+Raw Silicon Ore,Covered,Neper (T9),Oberon (T5); Proteus (T6); Triton (T6); Pluto (T7); Barnarda C (T8); Barnarda E (T8); Barnarda F (T8); Neper (T9),Deep Dark (T10),230
+Raw Tengam Ore,Covered,Seth (T9),Seth (T9),Deep Dark (T10),231
+Realgar Ore,Covered,Vega B (T8); Horus (T9),Nether (T0); Makemake (T7); Barnarda F (T8); Vega B (T8); Horus (T9),Deep Dark (T10),232
+Red Descloizite Ore,Covered,Ross128b (T3),Ross128b (T3),Deep Dark (T10),233
+Red Fuchsite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),234
+Red Garnet Ore,Covered,Vega B (T8); Horus (T9),Twilight Forest (T0); Haumea (T7); Makemake (T7); Pluto (T7); Barnarda C (T8); Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8); T Ceti E (T8); Vega B (T8); Horus (T9),Deep Dark (T10),235
+Red Zircon Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),236
+Redstone Ore,Covered,Overworld (T0); Io (T4); Vega B (T8),Overworld (T0); Nether (T0); Mars (T2); Ganymede (T3); Io (T4); Mercury (T4); Venus (T4); Miranda (T5); Titan (T5); Proteus (T6); Barnarda F (T8); α Centauri Bb (T8); Vega B (T8),Deep Dark (T10),237
+Roasted Iron Ore,Unobtainable,,,Deep Dark (T10),238
+Roasted Nickel Ore,Unobtainable,,,Deep Dark (T10),239
+Rock Salt Ore,Covered,Overworld (T0),Overworld (T0); Twilight Forest (T0); Mars (T2); Barnarda C (T8); T Ceti E (T8),Deep Dark (T10),240
+Roquesite Ore,Covered,Ross128b (T3),Ross128b (T3),Deep Dark (T10),241
+Rubidium Ore,Unobtainable,,,Deep Dark (T10),242
+Rubracium Ore,Covered,Horus (T9),Europa (T3); Enceladus (T5); Horus (T9),Deep Dark (T10),243
+Ruby Ore,Covered,Overworld (T0); Vega B (T8); Horus (T9),Overworld (T0); Nether (T0); Twilight Forest (T0); Mars (T2); Ganymede (T3); Mercury (T4); Venus (T4); Miranda (T5); Barnarda F (T8); α Centauri Bb (T8); Vega B (T8); Horus (T9),Deep Dark (T10),244
+Runite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),245
+Rutile Ore,Covered,Horus (T9); Maahes (T9),Venus (T4); Titan (T5); Anubis (T9); Horus (T9); Maahes (T9),Deep Dark (T10),246
+Salt Ore,Covered,Overworld (T0),Overworld (T0); Twilight Forest (T0); Mars (T2); Barnarda C (T8); T Ceti E (T8),Deep Dark (T10),247
+Saltpeter Ore,Covered,Io (T4),Nether (T0); Twilight Forest (T0); Deimos (T2); Mars (T2); Ceres (T3); Ganymede (T3); Io (T4); Venus (T4); Enceladus (T5); Proteus (T6); α Centauri Bb (T8),Deep Dark (T10),248
+Samarium Ore,Covered,Seth (T9),Barnarda C (T8); α Centauri Bb (T8); Seth (T9),Deep Dark (T10),249
+Samarskite (Y) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),250
+Samarskite (Yb) Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),251
+Sapphire Ore,Covered,Horus (T9),Twilight Forest (T0); Horus (T9),Deep Dark (T10),252
+Scandium Ore,Unobtainable,,,Deep Dark (T10),253
+Scheelite Ore,Covered,The End (T0); Callisto (T3); Ross128b (T3); Ross128ba (T5); Vega B (T8),The End (T0); Deimos (T2); Mars (T2); Asteroids (T3); Callisto (T3); Ganymede (T3); Ross128b (T3); Enceladus (T5); Miranda (T5); Oberon (T5); Ross128ba (T5); Triton (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); Vega B (T8); Anubis (T9),Deep Dark (T10),254
+Shadow Iron Ore,Covered,Neper (T9),Oberon (T5); Proteus (T6); Triton (T6); Pluto (T7); Barnarda C (T8); Barnarda E (T8); Barnarda F (T8); Neper (T9),Deep Dark (T10),255
+Shadow Metal Ore,Unobtainable,,,Deep Dark (T10),256
+Sheldonite Ore,Covered,The End (T0); Callisto (T3); Io (T4); Maahes (T9); Seth (T9),The End (T0); Callisto (T3); Ceres (T3); Ganymede (T3); Io (T4); Mercury (T4); Oberon (T5); Kuiper Belt (T7); Pluto (T7); Maahes (T9); Mehen Belt (T9); Seth (T9),Deep Dark (T10),257
+Silicon Solar Grade (Poly SI) Ore,Unobtainable,,,Deep Dark (T10),258
+Silver Ore,Covered,Overworld (T0); The End (T0); Io (T4); Vega B (T8); Maahes (T9),Overworld (T0); Nether (T0); The End (T0); Twilight Forest (T0); Moon (T1); Mars (T2); Ganymede (T3); Io (T4); Venus (T4); Enceladus (T5); Oberon (T5); Titan (T5); Proteus (T6); Triton (T6); Pluto (T7); Vega B (T8); Anubis (T9); Maahes (T9),Deep Dark (T10),259
+Soapstone Ore,Covered,Overworld (T0); Maahes (T9),Overworld (T0); Twilight Forest (T0); Ceres (T3); Anubis (T9); Maahes (T9),Deep Dark (T10),260
+Sodalite Ore,Covered,Overworld (T0); The End (T0); Vega B (T8),Overworld (T0); The End (T0); Twilight Forest (T0); Deimos (T2); Ceres (T3); Enceladus (T5); Vega B (T8); Mehen Belt (T9),Deep Dark (T10),261
+Spessartine Ore,Covered,Overworld (T0); The End (T0); Io (T4),Overworld (T0); Nether (T0); The End (T0); Ceres (T3); Io (T4); Oberon (T5); Titan (T5); Triton (T6); Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8),Deep Dark (T10),262
+Sphalerite Ore,Covered,Io (T4); Ross128ba (T5),Nether (T0); Deimos (T2); Mars (T2); Phobos (T2); Io (T4); Venus (T4); Ross128ba (T5); α Centauri Bb (T8); Anubis (T9),Deep Dark (T10),263
+Spinel Ore,Covered,Horus (T9),Twilight Forest (T0); Horus (T9),Deep Dark (T10),264
+Spodumene Ore,Covered,Overworld (T0); Ross128b (T3),Overworld (T0); Twilight Forest (T0); Mars (T2); Ross128b (T3); Barnarda C (T8); T Ceti E (T8),Deep Dark (T10),265
+Stibnite Ore,Covered,The End (T0); Ross128b (T3); Vega B (T8),Nether (T0); The End (T0); Deimos (T2); Mars (T2); Asteroids (T3); Ganymede (T3); Ross128b (T3); Venus (T4); Miranda (T5); Kuiper Belt (T7); α Centauri Bb (T8); Vega B (T8),Deep Dark (T10),266
+Strontium Ore,Unobtainable,,,Deep Dark (T10),267
+Sulfur Ore,Covered,Io (T4); Horus (T9),Nether (T0); Deimos (T2); Mars (T2); Phobos (T2); Europa (T3); Io (T4); Venus (T4); α Centauri Bb (T8); T Ceti E (T8); Anubis (T9); Horus (T9),Deep Dark (T10),268
+Talc,Covered,Overworld (T0); Maahes (T9),Overworld (T0); Twilight Forest (T0); Ceres (T3); Anubis (T9); Maahes (T9),Deep Dark (T10),269
+Tantalite Ore,Covered,Overworld (T0); The End (T0); Io (T4),Overworld (T0); Nether (T0); The End (T0); Ceres (T3); Io (T4); Miranda (T5); Oberon (T5); Titan (T5); Triton (T6); Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8),Deep Dark (T10),270
+Tantalum Ore,Unobtainable,,,Deep Dark (T10),271
+Tanzanite Ore,Covered,Horus (T9),Twilight Forest (T0); Deimos (T2); Phobos (T2); Horus (T9),Deep Dark (T10),272
+Tartarite Ore,Covered,Seth (T9),Barnarda C (T8); α Centauri Bb (T8); Seth (T9),Deep Dark (T10),273
+Tellurium Ore,Covered,Overworld (T0),Overworld (T0),Deep Dark (T10),274
+Temagamite Ore,Unobtainable,,,Deep Dark (T10),275
+Terbium Ore,Unobtainable,,,Deep Dark (T10),276
+Terlinguaite Ore,Unobtainable,,,Deep Dark (T10),277
+Terra Infused Stone,Covered,Neper (T9),Twilight Forest (T0); Neper (T9),Deep Dark (T10),278
+Tetrahedrite Ore,Covered,The End (T0); Ross128b (T3); Ross128ba (T5); Vega B (T8),Nether (T0); The End (T0); Deimos (T2); Mars (T2); Asteroids (T3); Ganymede (T3); Ross128b (T3); Venus (T4); Miranda (T5); Ross128ba (T5); Kuiper Belt (T7); α Centauri Bb (T8); Vega B (T8),Deep Dark (T10),279
+Thorianite Ore,Covered,Ross128b (T3),Ross128b (T3),Deep Dark (T10),280
+Thorium Ore,Covered,The End (T0); Callisto (T3); Io (T4); Vega B (T8),Nether (T0); The End (T0); Mars (T2); Callisto (T3); Ceres (T3); Ganymede (T3); Io (T4); Venus (T4); Titan (T5); Triton (T6); Haumea (T7); Makemake (T7); Pluto (T7); Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8); Vega B (T8),Deep Dark (T10),281
+Thulium Ore,Unobtainable,,,Deep Dark (T10),282
+Tiberium Ore,Covered,Ross128ba (T5),Ross128ba (T5),Deep Dark (T10),283
+Tin Ore,Covered,Overworld (T0); The End (T0); Io (T4); Seth (T9),Overworld (T0); Nether (T0); The End (T0); Twilight Forest (T0); Moon (T1); Deimos (T2); Mars (T2); Ganymede (T3); Io (T4); Venus (T4); Miranda (T5); Titan (T5); Proteus (T6); T Ceti E (T8); Mehen Belt (T9); Seth (T9),Deep Dark (T10),284
+Titanite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),285
+Titanium Ore,Covered,Callisto (T3); Io (T4); Vega B (T8); Maahes (T9),Deimos (T2); Mars (T2); Phobos (T2); Asteroids (T3); Callisto (T3); Ceres (T3); Ganymede (T3); Io (T4); Mercury (T4); Venus (T4); Enceladus (T5); Miranda (T5); Oberon (T5); Titan (T5); Proteus (T6); Triton (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); Barnarda E (T8); Barnarda F (T8); Vega B (T8); Anubis (T9); Maahes (T9); Mehen Belt (T9),Deep Dark (T10),286
+Topaz Ore,Covered,Callisto (T3); Horus (T9); Maahes (T9),Twilight Forest (T0); Callisto (T3); Anubis (T9); Horus (T9); Maahes (T9),Deep Dark (T10),287
+Tricalcium Phosphate Ore,Covered,Overworld (T0),Overworld (T0); Twilight Forest (T0); T Ceti E (T8),Deep Dark (T10),288
+Trinium Ore,Covered,Maahes (T9),Maahes (T9),Deep Dark (T10),289
+Tritanium Ore,Unobtainable,,,Deep Dark (T10),290
+Trona Ore,Covered,Overworld (T0); Neper (T9),Overworld (T0); Anubis (T9); Neper (T9),Deep Dark (T10),291
+Tungstate Ore,Covered,The End (T0); Callisto (T3); Io (T4); Vega B (T8); Maahes (T9),The End (T0); Deimos (T2); Mars (T2); Phobos (T2); Asteroids (T3); Callisto (T3); Ceres (T3); Europa (T3); Ganymede (T3); Io (T4); Mercury (T4); Venus (T4); Enceladus (T5); Miranda (T5); Oberon (T5); Titan (T5); Proteus (T6); Triton (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); T Ceti E (T8); Vega B (T8); Anubis (T9); Maahes (T9),Deep Dark (T10),292
+Tungsten Ore,Covered,Io (T4); Neper (T9),Io (T4); Venus (T4); Oberon (T5); Proteus (T6); Triton (T6); Pluto (T7); Barnarda C (T8); Barnarda E (T8); Barnarda F (T8); Neper (T9),Deep Dark (T10),293
+Uraninite Ore,Covered,Ross128b (T3); Io (T4); Vega B (T8),Deimos (T2); Mars (T2); Phobos (T2); Ceres (T3); Ganymede (T3); Ross128b (T3); Io (T4); Venus (T4); Enceladus (T5); Oberon (T5); Proteus (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8); Vega B (T8); Mehen Belt (T9),Deep Dark (T10),294
+Uranium 235 Ore,Covered,Vega B (T8),Triton (T6); Haumea (T7); Pluto (T7); Barnarda E (T8); Barnarda F (T8); Vega B (T8),Deep Dark (T10),295
+Uranium 238 Ore,Covered,Callisto (T3); Io (T4); Vega B (T8),Deimos (T2); Phobos (T2); Callisto (T3); Ceres (T3); Ganymede (T3); Io (T4); Enceladus (T5); Proteus (T6); Triton (T6); Haumea (T7); Kuiper Belt (T7); Makemake (T7); Pluto (T7); Barnarda E (T8); Barnarda F (T8); Vega B (T8); Mehen Belt (T9),Deep Dark (T10),296
+Uvarovite Ore,Covered,Callisto (T3),Moon (T1); Asteroids (T3); Callisto (T3); Ganymede (T3); Mercury (T4); Miranda (T5); Titan (T5); Proteus (T6); Pluto (T7); T Ceti E (T8); Mehen Belt (T9),Deep Dark (T10),297
+Vanadio-Oxy-Dravite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),298
+Vanadium Magnetite Ore,Covered,Overworld (T0); The End (T0); Callisto (T3); Io (T4); Vega B (T8); Seth (T9),Overworld (T0); The End (T0); Twilight Forest (T0); Deimos (T2); Mars (T2); Phobos (T2); Asteroids (T3); Callisto (T3); Ceres (T3); Io (T4); Triton (T6); Makemake (T7); Pluto (T7); Barnarda E (T8); Barnarda F (T8); T Ceti E (T8); Vega B (T8); Seth (T9),Deep Dark (T10),299
+Vanadium Ore,Covered,Vega B (T8); Maahes (T9),Enceladus (T5); Proteus (T6); Makemake (T7); Barnarda F (T8); Vega B (T8); Maahes (T9),Deep Dark (T10),300
+Vermiculite,Covered,Overworld (T0),Overworld (T0),Deep Dark (T10),301
+Vinteum Ore,Covered,Horus (T9); Neper (T9); Seth (T9),Deimos (T2); Phobos (T2); Mercury (T4); Miranda (T5); Horus (T9); Neper (T9); Seth (T9),Deep Dark (T10),302
+Vulcanite Ore,Covered,Io (T4); Horus (T9),Io (T4); Anubis (T9); Horus (T9),Deep Dark (T10),303
+Vyroxeres Ore,Covered,Horus (T9),Deimos (T2); Phobos (T2); Horus (T9),Deep Dark (T10),304
+Wittichenite Ore,Covered,Ross128b (T3); Ross128ba (T5),Ross128b (T3); Ross128ba (T5),Deep Dark (T10),305
+Wollastonite Ore,Covered,Overworld (T0); Neper (T9),Overworld (T0); Anubis (T9); Neper (T9),Deep Dark (T10),306
+Wulfenite Ore,Covered,The End (T0),Nether (T0); The End (T0); Twilight Forest (T0); Moon (T1); Phobos (T2); Ceres (T3); Mercury (T4); Titan (T5); Proteus (T6); Pluto (T7); Barnarda E (T8),Deep Dark (T10),307
+Xenotime Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),308
+Yellow Garnet Ore,Covered,Vega B (T8); Horus (T9),Twilight Forest (T0); Haumea (T7); Makemake (T7); Pluto (T7); Barnarda C (T8); Barnarda E (T8); Barnarda F (T8); α Centauri Bb (T8); T Ceti E (T8); Vega B (T8); Horus (T9),Deep Dark (T10),309
+Yellow Limonite Ore,Covered,Overworld (T0); Callisto (T3),Overworld (T0); Nether (T0); Twilight Forest (T0); Mars (T2); Callisto (T3); Ceres (T3); Ganymede (T3); Mercury (T4); Oberon (T5); Pluto (T7),Deep Dark (T10),310
+Ytterbium Ore,Unobtainable,,,Deep Dark (T10),311
+Yttrialite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),312
+Yttrium Ore,Covered,Vega B (T8),Triton (T6); Makemake (T7); Barnarda F (T8); Vega B (T8),Deep Dark (T10),313
+Yttrocerite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),314
+Zeolite Ore,Covered,Overworld (T0); Neper (T9),Overworld (T0); T Ceti E (T8); Neper (T9),Deep Dark (T10),315
+Zimbabweite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),316
+Zinc Ore,Covered,Overworld (T0); The End (T0); Io (T4),Overworld (T0); Nether (T0); The End (T0); Mars (T2); Ganymede (T3); Io (T4); Mercury (T4); Enceladus (T5); Titan (T5); Proteus (T6); Haumea (T7); Barnarda E (T8),Deep Dark (T10),317
+Zircon Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),318
+Zirconolite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),319
+Zirkelite Ore,Covered,Toxic Everglades (T6),Toxic Everglades (T6),Deep Dark (T10),320
